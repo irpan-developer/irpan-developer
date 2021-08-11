@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irpan-developer
-- 👀 I’m interested in marching learning
+- 👀 I’m interested in marchine learning
 - 🌱 I’m currently learning python
 - 📫 How to reach me irpanmy88@gmail.com
 
